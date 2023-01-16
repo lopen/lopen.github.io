@@ -1,0 +1,80 @@
+---
+layout: post
+title:  "Jekyll Markdown Test!"
+date:   2023-01-16 15:00:00 +0000
+categories: blog personal test
+---
+
+## Checking out Jekyll's markdown syntax
+
+This is just a test post for me to try out different markdown syntax!
+
+### Basic syntax
+
+I can make text **bold**.
+
+I can make text *italic*.
+
+> I can make a block quote!
+
+How about lists?
+1. Yeah,
+2. they work!
+3. This one is ordered
+- and this one
+- is not!
+
+I can even add `codeblocks`!
+
+I can add links as well, check out my [twitter](https://twitter.com/trgyve)!
+
+![image of a duck](/assets/duck.jpg)
+
+--- 
+
+## Here is some extended syntax: 
+
+Fenced codeblock:
+```
+#!/bin/bash echo 
+
+"Hello World!"; 
+
+exit 0;
+```
+
+Table:
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+
+Footnote:
+> I am a piece of obscure text that makes no sense. [^1]
+
+[^1]: And I'm its footnote
+
+Heading ID:
+### Another incredible heading {#fancy-id}
+
+Definition list:
+
+term
+: definition
+
+I can ~~striketrhoaugh~~ strikethrough text!
+
+To-do list: 
+- [ ] This is like github
+- [x] Yes it is
+
+THERE ARE EMOJIS! :joy: <-- did not seem to work
+
+Highlighting is <mark>good</mark>.
+
+Sub- and superscript:
+
+H~2~O
+
+X^2^
