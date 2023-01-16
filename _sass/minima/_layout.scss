@@ -163,7 +163,19 @@
   }
 }
 
+@include media-query($on-palm) {
+  .footer-col {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
 
+@media (max-width:320px){
+  .site-footer {
+    display: none;
+  }
+}
 
 
 
