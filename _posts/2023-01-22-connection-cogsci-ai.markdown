@@ -17,22 +17,24 @@ Further I will present and introduce some philosopical arguments and views in br
 
 ---
 
-### Historic overview of Cognitive Science and AI
+### Historic overview and definitions of Cognitive Science[^3]
 
-[^3] The study of the mind has been around since the ancient greek philosophers attempted to explain the nature of the human mind. In the 19th century, experimental psychology in the form of behaviorism took over virtually denying the exsistence of the mind.
+The study of the mind has been around since the ancient greek philosophers attempted to explain the nature of the human mind. In the 19th century, experimental psychology in the form of behaviorism took over virtually denying the exsistence of the mind.
 Around 1956, George Miller summarized numerous studies and highlighted through these that the human mind is limited and requires chunking of memories for recording, mental representations and mental procedures with encoding and decoding to handle information.
 At the same time as this was happening, McCarthy, Minsky, Newell and Simon were founding AI - and Chmosky began rejecting behaviourism through mental grammars consisting of rules.
 This rejection of behaviourism, reinvigorated study of the mind and the development of AI as a field, are what we can view as Cognitive Science's intellectual origins. The thinkers mentioned above can be viewed as the founders of cognitive science.
 
-[^1] AI as a field is devoted to building artifical creatrures that - in suitable contexts - *appear* to be animals or humans. While this is might not be the case for all researchers in the field of AI, it is of interest to philosophers (e.g.) through attempts at showing that these goals are un/attainable. AI does not only concern philosophy but also extends to - and is utilized in - many other fields of research. 
+
+### Historic overview and definitions of AI[^1]
+AI as a field is devoted to building artifical creatrures that - in suitable contexts - *appear* to be animals or humans. While this is might not be the case for all researchers in the field of AI, it is of interest to philosophers (e.g.) through attempts at showing that these goals are un/attainable. AI does not only concern philosophy but also extends to - and is utilized in - many other fields of research. 
 AI's offical start was in 1956 via a summer conference at Dartmouth College in Hanover, New Hampshire. This conference was notable for many reasons: the term "artifical intelligence" was coined there and Logic Theorist (LT) was revealed there (as a program LT was capable of proving elementary theorems in the propositional calculus).
 The field itself was already in operation before this conference. Alan Turing, in his paper *Mind*, argues that the question "Can a machine think?" should be replaced with "Can a machine be linguistically indistinguishable from a human?". Along with this argument, he proposes his famous Turing Test (TT). TT continues to be at the heart of AI with attempts at passing the test and proving that these attempts did not succeed.
 It is worth noting that Descartes proposed a test like TT, which to some extent is more demanding than TT.[^4] In short, the test is similar to that of TT in that a machine has to pass as "human" to an observer. However, a computer will only pass descartes test if it has the *capacity* to answer arbitrary questions.
 In present day and within certain areas machines, or AI, out-perfom minds. AI has however not been able to create *general* intelligence (meaning the adaptability of being able to learn and develop knowledge beyond its original programmed intention).
 
-### The Programmatic Impasse in AI and Cognitive Science
+### The Programmatic Impasse in AI and Cognitive Science[^5]
 
-[^5] This book states that there is a programmatic impasse in the field of Artificial Intelligence and Cognitive Science, explains why this is and outlines an alternative approach to transcend this impasse.
+This book states that there is a programmatic impasse in the field of Artificial Intelligence and Cognitive Science, explains why this is and outlines an alternative approach to transcend this impasse.
 
 ### The Standard Model of the Mind[^2]
 
@@ -51,9 +53,15 @@ The article provides a look at how this standard model could look, like its stru
 
 In terms of how this article provides insight into the connection between cognitive science and AI, I look to the origins of the article and its intent. The article started as a sketch during a meeting at a AAAI Symposium, between researchers of cognitive architecture and human-level artifical intelligence. The intent behind the proposed model was, as explained above, being the development of a standard model to help accelerate cross-disiplinary collaboration and comparison of research undertaking arcoss fields like cognitive science and AI. The article provides a connection between the two disiplinces and how they can work hand in hand.
 
-### Simulating the Human Mind and its Complexity
+### Simulating the Human Mind and its Complexity[^6]
 
-[^6] This study encompassed around the interdisciplinary study of cognitive science in the field of artificial intelligence. Past as well as current areas of research have been highlighted such that better understating of the topic can be ensured. Furthermore, some of the present-day applications of cognitive science artificial intelligence have been discussed as these can be considered as the foundation for further improvement. Prior to discussion about future scopes, real-time complexities have been revealed.
+In short this study attempts to provide insight into the interdisiplinary study of Cognitive Science in the field of AI. It highlights some current applications of Cognitive Science AI, like text-to-speech, speech-to-text and natural language understanding. The study also outlines the current limitations of brain simulation within Cognitive Science AI, but also highlights the improvements that fields like nanotechnology can bring to brain simulation. 
+
+The study itself is not too critical, but rather informs the reader of where Cognitive Science AI is at present (with some background information to help make certain concepts like cognitive architecture understandable). The study feels more descriptive than philosophical - which is fine - for the purpose of this write-up, it serves as a reminder as to the connection between Cognitive Science and AI.
+
+### Summary
+
+Blergh
 
 ---
 
