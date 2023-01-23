@@ -34,10 +34,22 @@ In present day and within certain areas machines, or AI, out-perfom minds. AI ha
 
 [^5] This book states that there is a programmatic impasse in the field of Artificial Intelligence and Cognitive Science, explains why this is and outlines an alternative approach to transcend this impasse.
 
-### The Standard Model of the Mind
+### The Standard Model of the Mind[^2]
 
-[^2] The purpose of this article is to begin the process of engaging the international research community in developing what can be called a standard model of the mind, where the mind we have in mind here is human-like. The notion of a standard model has its roots in physics, where over more than a half-century the international community has developed and tested a standard model that combines much of what is known about particles. This model is assumed to be internally consistent, yet still have major gaps. Its function is to serve as a cumulative reference point for the field while also driving efforts to both extend and break it.
+The article *A Standard Model of the Mind* started as an idea at the [2013 Association for the Advancement of Artifical Intelligence (AAAI) Fall Symposium](https://aaai.org/Symposia/Fall/fss13.php "2013 Association for the Advancement of Artifical Intelligence Fall Symposium"). Written by John E. Laird, Christian Lebiere and Paul S. Rosenbloom, the article's aim was to engage the international research community in beginning the development of a *standard model of the mind*. A standard model captures a community consensus over a coherent region of science, serving as a cumulative reference point for the field that can provide guidance for both research and applications, while also focusing efforts to extend or revise it (Laird et al., 2017). The model presented aims to create a consensus on what must be in a cognitive architecture to provide a humanlike mind.
 
+Computer architecture, like cognitive architecture, defines a general purpose computational device capable of running programs on data. There are however, two key differences to be made for cognitive architecture: (1) Programs and adata needs to be limited to what is viewed as humanlike intelligent behaviour; and (2) programs and data are intented to be aquired automatically from experience, rather than from programmed "knowledge". This is except for a limited set of innate programs.
+
+Cognitive architectures will thus define languages yielding learnable intelligent behaviour, in the form of knowledge and skills (Liard et al., 2017). With a common consensus on a cognitive architecture across multiple fields of study, there will be the possibility of collaboration and comparison using the same cognitive architecture.
+
+The standard model propose takes its inspiration in three different, pre-existing architectures: ATC-R, with its origins in cognitive science and reaching out into AI among other fields; Soar origniated within AI and has spread into cognitive science; and finally Sigma, being a more newly developed model that takes inspiration of the previous two. These three models were selected as Laird et al. knew them best, and found that attempting to introduce other models where knowledge was lacking caused more harm than good. There have been other attempts, where the goal has been similar to that of creating a standard model, however the result has ended in taking different parts of architectures and mashing them together, rather than assembling a new model based on common parts. Laird et al. state that if the standard model is missing key parts of a cognitive architecutre it is not due to it being deemed unimportant or incorrect, but rather a point of discussion where consensus has yet to be reached.
+
+The article provides a look at how this standard model could look, like its structure and processing; memory and content; learning; and perception and motion.
+
+![The structure of the proposed Standard Model ](/assets/standard-model.png) 
+*The Structure of the Standard Model*
+
+In terms of how this article provides insight into the connection between cognitive science and AI, I look to the origins of the article and its intent. The article started as a sketch during a meeting at a AAAI Symposium, between researchers of cognitive architecture and human-level artifical intelligence. The intent behind the proposed model was, as explained above, being the development of a standard model to help accelerate cross-disiplinary collaboration and comparison of research undertaking arcoss fields like cognitive science and AI. The article provides a connection between the two disiplinces and how they can work hand in hand.
 
 ### Simulating the Human Mind and its Complexity
 
